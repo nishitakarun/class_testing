@@ -6,3 +6,5 @@ This is a temporary script file.
 """
 
 print("Hello,World!!!")
+
+print("Math is beautiful")
